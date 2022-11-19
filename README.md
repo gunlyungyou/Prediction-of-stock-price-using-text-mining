@@ -1,1 +1,1 @@
-# Unsupervised Sentimental analysis, word2vec, doc2vec
+# Prediction of Stock Movement Using Unsupervised Sentimental Anlaysis
